@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuragj75746018" target="blank"><img src="https://img.shields.io/twitter/follow/anuragj75746018?logo=twitter&style=for-the-badge" alt="anuragj75746018" /></a> </p>
 
-- 🔭 I’m currently working on improving [DishDash](https://github.com/anuragJoshi05/DishDash)
+- 🔭 I’m currently working on [DishDash](https://github.com/anuragJoshi05/DishDash)
 
 - 🌱 I'm currently diving deeper into **Provider and Bloc.**
 
