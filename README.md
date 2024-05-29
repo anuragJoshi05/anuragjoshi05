@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragjoshi05&theme=tokyonight" alt="anuragjoshi05" /></a> </p>
 
-- 🔭 I’m currently working on [DishDash](https://github.com/anuragJoshi05/DishDash)
+- 🔭 I’m currently working on [NewsFlash](https://github.com/anuragJoshi05/NewsFlash)
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Flutter, Dart, Firebase, Kotlin.**
 - 📫 How to reach me **anurag88787@gmail.com**
