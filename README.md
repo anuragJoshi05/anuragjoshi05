@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div style="display: flex; justify-content: center;">
+    <img src="https://i.giphy.com/llarwdtFqG63IlqUR1.webp" alt="Rob GIF" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); image-rendering: pixelated;" width="250" height="250">
+</div>
+
 <h1 align="center">Hi👋, I'm Anurag Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjoshi05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjoshi05" /> </p>
 
