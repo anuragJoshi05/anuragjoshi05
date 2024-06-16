@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<div style="display: flex; justify-content: center;">
-    <img src="https://i.giphy.com/llarwdtFqG63IlqUR1.webp" alt="Rob GIF" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); image-rendering: pixelated;" width="250" height="250">
-</div>
 
-<h1 align="center">Hi👋, I'm Anurag Joshi</h1>
+<h1 align="center">Hey, I'm Anurag Joshi 🚀 Crafting Android Excellence</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjoshi05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjoshi05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragjoshi05&theme=tokyonight" alt="anuragjoshi05" /></a> </p>
@@ -53,6 +50,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anurag88787"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anurag88787" /></a><a href="https://ko-fi.com/anurag88787"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anurag88787" /></a></p><br><br>
+
+
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjoshi05&layout=compact&theme=tokyonight-duo" alt=anuragjoshi05 />
