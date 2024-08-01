@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragjoshi05&theme=tokyonight" alt="anuragjoshi05" /></a> </p>
 
 - 🔭 I’m currently working on [ClipNote](https://github.com/anuragJoshi05/ClipNote)
-- 🌱 I’m currently learning **Flutter, SQLite, Google UI**
+- 🌱 I’m currently learning **Flutter, GetX, SQLite, Google UI**
 - 💬 Ask me about **Flutter, Dart, Firebase, Kotlin.**  
 - 📫 How to reach me **anurag88787@gmail.com**
 - ⚡ Fun fact **Flutter, Google's cross-platform framework, started as an experimental project named "Sky" in 2015. From experiment to excellence, it now empowers developers worldwide to craft beautiful apps for every platform!**
