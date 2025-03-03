@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragjoshi05&theme=tokyonight" alt="anuragjoshi05" /></a> </p>
 
 - 🔭 I’m working on **Data Structures & Algorithms (DSA)**
-- 💬 Ask me about **DSA and AWS (Theory)**
+- 💬 Ask me about **DSA and AWS**
 - 📫 How to reach me **anurag88787@gmail.com**
 - ⚡ Fun fact **The first computer bug was an actual bug—a moth stuck in a Harvard Mark II computer in 1947!**
 
