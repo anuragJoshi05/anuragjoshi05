@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragjoshi05&theme=tokyonight" alt="anuragjoshi05" /></a> </p>
 
-- 🔭 I’m currently working on **GetX, Provider**
-- 🌱 I’m currently learning **GetX, SQLite, Google UI**
-- 💬 Ask me about **Flutter, Dart, Firebase, Kotlin, XML**  
+- 🔭 I’m working on **Data Structures & Algorithms (DSA)**
+- 💬 Ask me about **DSA and AWS (Theory)**
 - 📫 How to reach me **anurag88787@gmail.com**
-- ⚡ Fun fact **Flutter, Google's cross-platform framework, started as an experimental project named "Sky" in 2015. From experiment to excellence, it now empowers developers worldwide to craft beautiful apps for every platform!**
+- ⚡ Fun fact **The first computer bug was an actual bug—a moth stuck in a Harvard Mark II computer in 1947!**
+
 
 <div>
 <a href="https://twitter.com/anuragj75746018" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
