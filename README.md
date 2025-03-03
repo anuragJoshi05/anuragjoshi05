@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=3DDC84&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey%2C+I%27m+Anurag+Joshi%3B%F0%9F%91%BE+Crafting+Android+Excellence" alt="Hey, I'm Anurag Joshi 👾">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=45&color=00C896&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Hey%2C+I'm+Anurag+Joshi" alt="Hey, I'm Anurag Joshi">
 </h1>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjoshi05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjoshi05" /> </p>
