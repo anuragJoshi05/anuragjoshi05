@@ -42,13 +42,15 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragjoshi05&show_icons=true&theme=tokyonight-duo" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragjoshi05&theme=tokyonight-duo" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragjoshi05&show_icons=true&theme=tokyonight-duo" alt="Anurag's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjoshi05&layout=compact&theme=tokyonight-duo" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragjoshi05&theme=tokyonight-duo" alt="Anurag's GitHub Streak" />
 </p>
+
+
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
